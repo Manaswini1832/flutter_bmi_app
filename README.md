@@ -1,16 +1,7 @@
 # bmi_calculator
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- We can have an overarching app theme by declaring it in the beginning
+- We can also change the ThemeData of any widget by wrapping it inside a `Theme` widget
+- Can refactor by creating a new widget out a repeated widget by selecting it in the flutter outline -> right click -> select extract widget and name it
+- Instance field = Instance variable = Field = Property of a class
+- Final vs const
+- enums in dart
